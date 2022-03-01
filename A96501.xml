@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cal to all the souldiers of the Armie, by the free people of England. 1. Justifying the proceedings of the five regiments. 2. Manifesting the necessity of the whole Armies joyning with them, in all their faithfull endeavours, both for removing of all tyranny and oppression, chiefly tythes and excise, and establishing the just liberties and peace of this nation. 3. Discovering (without any respect of persons) the chiefe authors, contrivers and increasers of all our miseries, especially the new raised hypocrits, by whose treacherous practices, all the just intentions and actions of the adjutators and other well minded souldiers, have been made fruitless.</title>
+            <author>Wildman, John, Sir, 1621?-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96501</idno>
+            <idno type="STC">Wing W2167</idno>
+            <idno type="STC">Thomason E412_10</idno>
+            <idno type="STC">ESTC R204124</idno>
+            <idno type="EEBO-CITATION">99863818</idno>
+            <idno type="PROQUEST">99863818</idno>
+            <idno type="VID">116033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116033)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cal to all the souldiers of the Armie, by the free people of England. 1. Justifying the proceedings of the five regiments. 2. Manifesting the necessity of the whole Armies joyning with them, in all their faithfull endeavours, both for removing of all tyranny and oppression, chiefly tythes and excise, and establishing the just liberties and peace of this nation. 3. Discovering (without any respect of persons) the chiefe authors, contrivers and increasers of all our miseries, especially the new raised hypocrits, by whose treacherous practices, all the just intentions and actions of the adjutators and other well minded souldiers, have been made fruitless.</title>
+                  <author>Wildman, John, Sir, 1621?-1693.</author>
+               </titleStmt>
+               <extent>7, [1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to Sir John Wildman.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The page after the first p. 7 is numbered 7.</note>
+                  <note>"A call to all the souldiers of the Army, by the free people of England" (caption title) begins new pagination on A1r.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116033:1" rendition="simple:additions"/>
+            <p>A CAL TO ALL THE SOULDIERS OF THE ARMIE, BY THE FREE PEOPLE OF
+<hi>ENGLAND.</hi>
+            </p>
+            <list>
+               <item>1. JUSTIFYING THE PROCEEDINGS OF THE FJVE REGJMENTS.</item>
+               <item>2. Manifeſting the neceſſity of the whole ARMIES joyn<g ref="char:EOLhyphen"/>ing with them, in all their faithfull endeavours, both for remo<g ref="char:EOLhyphen"/>ving of all Tyranny and oppreſſion, chiefly TYTHES and EXCISE, and eſtabliſhing the juſt liberties and peace of this Nation.</item>
+               <item>3. Diſcovering (without any reſpect of perſons) the chiefe Authors, contrivers and increaſers of all our miſeries, eſpecially the new raiſed hypocrits, by whoſe treacherous practices, all the juſt intentions and actions of the ADJUTATORS and other well minded Souldiers, have been made fruitleſs.</item>
+            </list>
+            <q>
+               <bibl>
+                  <hi>Iſaiah 58.6.</hi>
+               </bibl>
+               <p>Is not this the faſt that I have choſen? To looſe the bands of wickedneſſe, to undoe the heavy burdens, and to let the oppreſſed goe free, and that yee breake every yoak?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 23.27, 28.</hi>
+               </bibl>
+               <p>Woe unto you Scribes and Phariſees, hipo<g ref="char:EOLhyphen"/>crites; for yee are like unto whited Sepulchres, which indeed ap<g ref="char:EOLhyphen"/>pear beautifull outward, but are within full of dead mens bones, and all uncleanneſſe.</p>
+               <p>Even ſo, yee alſo outwardly appeare righteous unto men, but within ye are full of hypocriſie and iniquity.</p>
+            </q>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116033:2"/>
+            <pb n="3" facs="tcp:116033:2"/>
+            <head>TO THOSE FIVE REGJ<g ref="char:EOLhyphen"/>MENTS OF THE <hi>ARMY,</hi> WHO HAVE already declared themſelves to ſtand for mainte<g ref="char:EOLhyphen"/>nance of our juſt liberties, and for removall of thoſe heavie oppreſſions, mentioned in that worthy diſcourſe, inti<g ref="char:EOLhyphen"/>tuled, THE CASE OF THE ARMY: AND <hi>To all, who intend to joyne timely and ſpeedily with them.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>EE, true lovers of Juſtice and the Common<g ref="char:EOLhyphen"/>wealth, the work which yee have undertaken, is ſo juſt and neceſſary, that yee cannot but be exceedingly comforted in the very thoughts thereof, ye have Juſtice and neceſſity on your ſide, which will powerfully draw all free-principled men of all eſtates and conditions unto you, nor can ye faile of good ſucceſſe, unleſſe contrary to the will and mind of God, who hath moved your hearts, and raiſed you to this ſo excellent, eminent and needfull a worke, yee give ear in aniwiſe to the Syrene-ſongs of flatterers, temporizers, neuters and hy<g ref="char:EOLhyphen"/>pocrits.</p>
+            <p>As for martiall-force, wee know you to be of ſuch und ant<g ref="char:EOLhyphen"/>ed courage, fidelity and valour, as that yee will incurre no danger in that kind, but what yee may eaſily prevent and a<g ref="char:EOLhyphen"/>voide, if yee be ſo wiſe, provident and circumſpect as wee hope; beſides, yee may be conſident, that no juſt mans con<g ref="char:EOLhyphen"/>ſcience will ſuffer him to oppoſe you; and as for the unjuſt, <pb n="4" facs="tcp:116033:3"/>God hath made them as chaffe before you.</p>
+            <p>Take heed of crafty polititians and ſubtill
+<hi>Machivelians,</hi> &amp; be ſure to truſt no mans painted words, it being high time now to ſee actions, yea, and thoſe conſtantly upright too; if any man (by bringing forth unexpected bitter fruits) hath drawn upon himſelfe a juſt ſuſpition, let him juſtly bear his own blame, ſuch a one is no more to be truſted whatſoever be pretended, untill he as farre exceed others, as he hath come ſhort, in proſecution of your juſt ends and purpoſes.</p>
+            <p>One of the ſureſt markes of deceivers, is to make faire, long and eloquent ſpeeches, but a truſty or true-hearted man ſtudieth more to doe good actions, then utter deceitfull ora<g ref="char:EOLhyphen"/>tions; &amp; one of the ſureſt tokens of confederates in evill, is not only when one of his fellowes is vehement, firy or hot in any o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir purſuits, to be patient, cold or moderate to pacify his partner, and like deceitfull Lawyers before their Cliants to quallify matters; but ſometimes ſeeme to diſcord or fall out, and quarrell in Councels, reaſonings and debates; and yet nevertheleſſe in the end to agree in evill; which they doe purpoſely, to hold upright men in a charitable (though doubtfull) opinion, that if ſuch and ſuch a man be not godly and upright, they know not whom in the world to truſt, whiles in the meane time, under the vizards of great profeſ<g ref="char:EOLhyphen"/>ſions, gilded with ſome religious actions, they both deceive the world, and bring their wicked deſignes and ſelfe-inte<g ref="char:EOLhyphen"/>reſts to paſſe.</p>
+            <p>Thoſe of you, that uſe your thurſday general-Councels of late, might have obſerved ſo much of this kind of <hi>jugling, falſe-hood</hi> and <hi>double dealing,</hi> as might have ſerved to ſome good uſe at this point of extreamity, but truly moſt that have beene there have beene deluded, to our great griefe; which appeareth by the unreaſonable proceedings of that Court; as in many things, ſo eſpecially in their debates about <pb n="5" facs="tcp:116033:3"/>the aforeſaid <hi>Caſe of the ARMY,</hi> now publiſhed and ſubſcri<g ref="char:EOLhyphen"/>bed by you.</p>
+            <p>Wherein though the <hi>Generall</hi> was ſo ingenuous, as to move for the publicke reading thereof, yet the Commiſſary Generall
+<hi>Ireton,</hi> and Lievtenant Generall <hi>Cromwell,</hi> yea, and moſt of the Court, would and did proceed to cenſure &amp; judge both it and the Authors and promoters thereof, without reading it, and ever ſince doe impudently boaſt and glory in that their victory.</p>
+            <p>It is very wonderfull, that ſuch underſtanding men, ſhould ſo ſoone fall in<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſame pernitious courſes of thoſe late impeached fugitives, their predeceſſors, <hi>Hollis</hi> and <hi>Stapleton,</hi> ſeeming to account all other men meer fooles but themſelves; and becauſe they were able to carry al things (as it were with a ſtrong ſtreame) in the Houſe according to their own wils, they thought that either all other men abroad were blind, or muſt neceſſarily be of their mind: but as they were in ſome degree, ſo will theſe in a greater meaſure, be taught ſome new leſſons of better manners; and in Gods owne time, will be forc't alſo to acknowledge, that a ſincere conſcience will bear out in the day of tryall, when a wounded conſcience (with wicked acts and falſe tricks) will bewray guiltineſſe, and make the party odious.</p>
+            <p>In the Councell they held forth to you, the bloody <hi>Flagge</hi> of threats and terrous, talk't of nothing but <hi>Faction, dividing principles, Anarchy,</hi> of <hi>hanging puniſhing,</hi> yea, and impudent<g ref="char:EOLhyphen"/>ly maintained that your Regiments were <hi>abuſed,</hi> and the a<g ref="char:EOLhyphen"/>foreſaid
+<hi>Caſe,</hi> not truly ſubſcribed, and did appoint a Com<g ref="char:EOLhyphen"/>mittee <hi>Ad terrorem;</hi> and abroad they hold forth the <hi>white-flag of accommodation and ſatisfaction,</hi> and of minding the ſame thing which yee mind, and to be fleſh of your fleſh, and bone of your bone; and to invite you to their head-quarters, where they hope either to worke upon you, as they have
+<pb n="6" facs="tcp:116033:4"/>moſt lamentably done upon others, even to betray your
+<hi>truſt,</hi> confound both your underſtandings and Councels, corrupt your judgements, and blaſt your actions; and though they ſhould not prevaile with you, yet there they keepe ſo great a ſtate and diſtance, that they ſuppoſe yee will not dare to make good the things yeee have publiſhed.</p>
+            <p>But if yee be as wiſe as yee had need, keepe both from thence altogether, and as much at a diſtance from theſe pre<g ref="char:EOLhyphen"/>tended friends, as ye did once from open enemies; beleive it (if yee pleaſe) yee may as well hazzard at <hi>Hampton-Court</hi> as where they are, for the King and they are become one, as by the enſuing diſcourſe is made manifeſt.</p>
+            <p>If yee doe adventure to goe thither, beware that yee be not frighted by the word <hi>ANARCHY,</hi> unto a love of <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> which is but the gilded name for <hi>Tyranny;</hi> for <hi>Anar<g ref="char:EOLhyphen"/>chy</hi> had never been ſo much as once mentioned amongſt you, had it not been for that wicked end; 'tis an old thred-bare trick of the prophane Court, and doth amongſt diſcreet men ſhew plainly who is for the Court, &amp; againſt the liberties the people, who, when ſoever they poſitively inſiſt for their juſt freedomes, are immediatly flap't in the mouthes with theſe moſt malignant reproaches, O, yee are for <hi>Anarchchy,</hi> yee are againſt all Government, yee are <hi>Sectaries,</hi> ſedicious perſons, troublers both of Church and State, and ſo not wor<g ref="char:EOLhyphen"/>thy to live in a Common-wealth; there ſhall be a ſpeedy courſe taken both againſt you and ſuch as you: Away with all ſuch from Parliament doores and head-quarters.</p>
+            <p>And if yee can eſcape theſe deluſions, as through Gods aſ<g ref="char:EOLhyphen"/>ſiſtance (wee truſt) yee will, and not be ſatisfied with halfe or quarter remedies, or things holding a ſhadow only of good, without the ſubſtance, we cannot in the leaſt, doubt of your good ſucceſſe, being firmly reſolved to ſtand by you, and to live and dy with you.</p>
+            <pb n="7" facs="tcp:116033:4"/>
+            <p>Yee had need to bee well armed and fortified againſt the devices that will bee put upon you, <hi>Ireton</hi> (yee know) hath alredy ſcandalized the <hi>Caſe of the Army</hi> in the generall counſel where, by his owne, and his confederats craft and policy, he raigneth as ſole maſter, in ſo much as thoſe freinds yee have there (which wee hope, yee will ſee in dew time not to bee few) find it to little purpoſe to ſhew them ſelves active in oppoſing him: and as hee undertooke, ſo hath he anſwer<g ref="char:EOLhyphen"/>dy your <hi>Caſe,</hi> wherein hee ſheweth himſelfe ſoe full of arte &amp; cunning ſmooth deluſion (being ſkilled in nothing more) that if yee did not cenſibly know the things to be really and experimentally true, which yee have therein expreſt and publiſhed, 'tis ten to one but he would deceive you.</p>
+            <p>This is certaine, in the Houſe of Commons, both he and his Father <hi>Cromwell,</hi> doe ſo earneſtly and palpably carry on the Kings deſigne, that your beſt friends there are amazed thereat, and even ready to weep for griefe to ſee ſuch a ſud<g ref="char:EOLhyphen"/>den and dangerous alteration; and this they doe in the name of the whole Army, certifying the Houſe, that if they doe not make further addreſſe to the King, they cannot promiſe that the Army will ſtand by them; if they ſhould find oppo<g ref="char:EOLhyphen"/>ſition; and what is this, but as much in effect, as in the name of the whole Army, to threaten the Houſe into a compliance with the King your moſt deadly enemy, and who if things go on thus, will deceive both you and them, yea, and all that act moſt for him?</p>
+            <p>To what purpoſe then ſhould you either debate, conferre or treate, with ſuch falſe ſophiſters, or treacherous deceivers as theſe, who like the former <hi>Courtiers</hi> can alwaies play the hypocrites, without any check of conſcience? To what end ſhould yee read, or ſpend time, to conſider what they either write or ſpeake, it being ſo evident that as they did intend, ſo they proceed to hold you in hand till their work be done?</p>
+            <pb n="7" facs="tcp:116033:5"/>
+            <p>But if you will ſhew your ſelves wiſe, ſtop your eares a<g ref="char:EOLhyphen"/>gainſt them; <hi>reſiſt the Devill and he will fly from you:</hi> hold not par lee with them, but proceed with that juſt work yee have ſo happily begun, without any more regarding one word they ſpeak, for their conſciences being at liberty to ſay or do any thing which may advance their owne ends, they have great advantage againſt you, whoſe conſciences will not per<g ref="char:EOLhyphen"/>mit you to ſay or do any thing but what is juſt &amp; true, &amp; what yee mean to performe, they having ſhamfully proved them<g ref="char:EOLhyphen"/>ſelves to be large promiſers, thereby to deceive both you and all the people, but the worſt performers that ever lived.</p>
+            <p>And therefore, certainly, ye have no warrant from God to treat either with them or their deceitfull inſtruments, who will be ſpeedily (in great numbers) ſent amongſt you; but as ye know moſt of them for evill, ſo are ye to avoid them, as the moſt venemous Serpents: &amp; faill not in this your juſt enterprize to caſt yor ſelues chiefly upon God in the uſe of all the knowledge, experience, means and power wherewith he hath fur<g ref="char:EOLhyphen"/>niſhed you; and ſecondly upon the people, who will be ready with all their might and ſtrength to aſſiſt you; whil'ſt yee are fathfull &amp; reall for them; joyne and be one with them in heart and hand, with all poſſible ſpeede in ſome ſubſtantiall and firme AGRE<g ref="char:EOLhyphen"/>MENT, for juſt freedom and common right, that this nation may no longer flote upon ſuch wavering uncertain and ſandy foundations of Government, which have been one of the greateſt cauſes both of all your, &amp; our prediceſſors miſeries</p>
+            <p>Otherwiſe, if ye be not at a firme eſtabliſh't certainty of all particulars therein, con<g ref="char:EOLhyphen"/>ducing both to the proſperity and ſafety of the People, we ſee no other remedy, but that now after all your victories, both ye and wee will come to live that dying life, e<g ref="char:EOLhyphen"/>ven at the cruell mercies of moſt wicked Tyrants and blood oppreſſors.</p>
+            <p>Thus yee may aſſure your ſelves, if ye now ſuffer your ſtrength either to be wronng or flattered out of your hands (though it be a moſt ſad thing to ſpeake) before many moneths paſſe, both yee and wee are like to be driven, yea, and even glad to begge our bread; and why is it they keepe you ſtill ſo poore as they have a long time done (to the great griefe of us all) but that yee might not be able to helpe or ſtirre more then as many priſoners? Yea, they intend when they are advanced to the hight of their preferment, that many both of you and us, ſhall be whipt, or baniſhed as Va<g ref="char:EOLhyphen"/>gabons, ſtarved in priſons, or hanged on Gallowſes by doſens, ſcores and hindreds, as theeves and murderers.</p>
+            <p>Therefore let the foreſight and conſideration of theſe ſad rewards of all our good ſervices, which are faſt hatching for us, make you wiſe and provident in time, who have ſufficient power with our aſſiſtance, to defend both your ſelves and us; and the rather uſe all lawfull meanes to prevent, then to be in any wiſe forced to repent; worke whilſt it is called to day; the night commeth on a pace, even the blackneſſe of darkneſſe, of a moſt wicked accommodation, and then no man can worke: Up there<g ref="char:EOLhyphen"/>fore and be doing what is juſt, and the Lord our God will aſſiſt you, and wee ſhall ſpend our lives and eſtates with you.</p>
+            <closer>
+               <salute>Fare-well.</salute>
+            </closer>
+         </div>
+         <div type="call_to_arms">
+            <pb n="1" facs="tcp:116033:5"/>
+            <head>A CALL TO ALL THE SOULDIERS OF THE ARMY, by the free People of England.</head>
+            <p>
+               <seg rend="decorInit">F</seg>AITHFUL friends, ye and we have had ſo much ex<g ref="char:EOLhyphen"/>perience of all ſorts of men, that if now wee bee any longer deceived, wee are to complain of none but our ſelves; for as concerning the King, yee know the whole time of his reign before this Parliament,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time of moſt intolerable oppreſſion, as his deferring and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng up of Parliaments, knight-hood and loane-money, en<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ent of cuſtomes and impoſt, cruell and bloody cenſures in Sta<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mber and high Commiſſion, ſelling of Offices, bribery and exte<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s in all Courts, extention of law-ſuits, multitudes of Pat<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and projects, Ship-money, coate and conduct money, in<g ref="char:EOLhyphen"/>novation in Religion, and continuall oppreſſion of conſcience.</p>
+            <p>And as his firſt warre was made purpoſely to betray Rochell, (that ancient Sanctuary of the Proteſtants) ſo now by the ſame his arbitrary power, he raiſeth a bloody warre againſt his owne native Country of Scotland, purpoſely to betray and enſlave both us and them; ſo that a verier tyrant then King Charles, even when this Parliament began, was not living upon earth.</p>
+            <p>And our hopes (ye know) were very great, that this Par<g ref="char:EOLhyphen"/>liament would have puniſhed him in the firſt place, as the chiefe author of our miſeries; but ſo it proved, that he no more abuſed his Office, then they inſtantly fell to abuſe their truſt; and fruſtrate our hopes; for they let him alone, and fall only upon his evill Coun<g ref="char:EOLhyphen"/>cellors; by which treacherous meanes they gave him opportunity to raiſe a warre againſt the People, which yee full dearely know, proved a very cruell and bloody one, to the deſtruction of many thouſand worthy men and families, all which ſeemeth too ſoone to be forgotten.</p>
+            <pb n="2" facs="tcp:116033:6"/>
+            <p>A great part of which time, the Parliament ſo managed the warre as if they intended meerly to robbe and ſpoyl the People, by pilling and polling them with variety of new deviſed taxes, eſpecially with that unmercifull taxation of EXCISE; which (like the diſeaſe called the woolfe) both eateth the fleſh and ſucketh the blood of the midle and poorer ſort, and ſo to moold and faſhion the people, to beare ſuch heavy burdens as the King ſhould impoſe upon them, with the leſſe grudging and repining.</p>
+            <p>But in the very point of time, when both the Parliament and their Armies under Eſſex and Mancheſter, had all ſhamefully be<g ref="char:EOLhyphen"/>trayed their truſts, and that all wel-affected people were ready to be given up into his merciles hands, naked &amp; ſtript of all their wealth and ſtrength, even then, it pleaſed God by undiſcernable meanes, to raiſe the n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w modle and put power into your hands, which wee thankfully acknowledge, ye ſo faithfully, induſtriouſly and vali<g ref="char:EOLhyphen"/>antly employed, as ſoon curbed the peide and power of the King, and freed the land from all his cruell and bloody forces.</p>
+            <p>Yet whiles ye were thus buſie abroad for good, the Parliament and City doe confederate, and are as induſtrious at home for evill; as to admit none to bear office of any truſt or command, but ſuch as would ſubmit to the Covenant and Presbytery; an Ordinance is brought into the Houſe, and countenanced againſt opinions in Religion, of a more bloody and dangerous conſequence then any that ever was in the high Commiſſion; a Committee is appointed and exerciſed with moſt vile parciallity, by Colonell Leigh and his accomplices, againſt godly peaceable People, for preaching with<g ref="char:EOLhyphen"/>out their deceitfull Cleargies Ordination; the Houſe of Lords im<g ref="char:EOLhyphen"/>priſon Commoners at their pleaſure, Larner, Lilburne, Overton, Tew and others, and the Houſe of Commons approve thereof, and give up the liberties of the people to any.</p>
+            <p>Their own Committees arbitrary commitments, and the violent behaviour of their own members are juſtified, whiles thoſe whom they abuſe, are upon falſe ſuggeſtions unheard, impriſoned; and in concluſion, they bluſh not to burne juſt Petitions by the common hang-man.</p>
+            <p>Indeed, there were no end of reckoning up the innumerable trea<g ref="char:EOLhyphen"/>cheries, and miſchieveous practices of this your Parliament, their intolerable pride, and covetous in-riching of themſelves, their
+<pb n="3" facs="tcp:116033:6"/>children and alliances, their allowance of the oppreſſions of all Committees and Courts, that ſhould be courts of juſtice, but are indeed forges of oppreſſion and injuſtice: And in all theſe times, and amidſt all buſineſſes, what is there done for the people? If in the beginning, they removed one oppreſſion, (as if they repented them<g ref="char:EOLhyphen"/>ſelves) they have brought in two in place thereof; and ever and a<g ref="char:EOLhyphen"/>non, their grand Maſter the King, muſt be treated withall; his ho<g ref="char:EOLhyphen"/>nour and authority (for ſooth) that ever ſought moſt violently the ruine of you and us, muſt be tendred, and have propoſitions ſent to him, and the poore ignorant people muſt be deluded by this Par<g ref="char:EOLhyphen"/>liaments double dealing, as if all the peoples peace and happineſſe depended only on him, who ever oppreſſed them to his utmoſt pow<g ref="char:EOLhyphen"/>er: All his plots to ruine the honeſt party in the Parliament and Ci<g ref="char:EOLhyphen"/>ty, muſt not in the leaſt be layed either to his charge, nor almoſt to any others, but ſearcht' into by halves and hudled up, like Deering, and Walers plots and the like; the Earle of Mancheſters teachery as foule as any, not ſo much as queſtioned.</p>
+            <p>And untill the wickedneſſe of the Houſe of Commons came to ſuch a maſſe, that they had plotted your disbanding, and thereby gave you juſt cauſe to ſtand upon your own guard, there appeared no hope, but that we &amp; ye with all who had al-waies ſtood for common freedome, againſt both Kingly, Lordly, and Parliamentary tyran<g ref="char:EOLhyphen"/>ny, ſhoul'd have been made the objects of their ſcorne, and ſubjects of their malice, and had ere this, been delivered up as ſlaves into the cruell hands of the King their Maſter.</p>
+            <p>But God hath put it into your hearts to take care both of your ſelves and us, and by your wiſdome and reſolution wrought a mighty alteration: Ye of the plainer ſort, were thought by him who is only wiſe, to be the meeteſt inſtruments for ſo great a work, and wee are grieved, that thoſe who were raiſed by your valour to places of honour and greatneſs, ſhould ſo ſoon deſpiſe the way of the Lord, and ſhould not ſtill make uſe of you, in finiſhing the work ſo happily begun.</p>
+            <p>Your Adjutators (we hear) are eſteemed but as a burthen to the chief Officers, which we judge to be the reaſon, that all things now are in ſuch a languiſhing condition; our hopes dy daily within us, and we fear ye will to ſoon give your ſelves and us, with our joynt and juſt cauſe, into their hands: Yee ſhould have conſidered, that <pb n="4" facs="tcp:116033:7"/>they along time ſtaggered, before they engaged with you, and certainly had never engaged, but that they ſaw no other way nor means to ſhelter and preſerve themſelves, from the power of Hollis and Stapleton with their confederates.</p>
+            <p>We have now too much cauſe to fear, that your and our good, or the promoting of the common freedome of the Nation, was the leaſt part of their care or intention; for they no ſooner by your u<g ref="char:EOLhyphen"/>nanimous reſolution, became Maſters of the King, Parliament and City, and thereby of a power to doe whatſoever good, was de<g ref="char:EOLhyphen"/>ſirable either by you or us, but they wholy deſpiſe and neglect you; for notwithſtanding your joynt engagement, and thereby your juſt power of voting with them, in all things concerning the Army as an Army, or as members of the common-wealth, they (at Branford or Hunſlow) made an agreement with the Parliament, without your knowledge or conſent; and likewiſe, both againſt your ſound ad<g ref="char:EOLhyphen"/>vice and their engagement, permit the uſurpers of Parliament au<g ref="char:EOLhyphen"/>thority to ſit and vote in the Houſe, not conſidering, or (at leaſt) not regarding how impoſſible it is, to promote the good of the people, to puniſh Delinquents, or to bring any ſecurity to you or us, whileſt they are there.</p>
+            <p>Ye perſiſt never the leſſe in your care of the common good, and urge again and again, that theſe intruders be removed out of Par<g ref="char:EOLhyphen"/>liament, and in the end prevail with your chief officers, to preſent to the Parliament, and publiſh to the world a Declaration, and therein a Proteſtation againſt their ſitting there, in very large and fit expreſſions; notwithſtanding all which, theſe corrupt and rotten members ſtill retain their places, and the chief domineering Officers of the Army, Cromwell and Ireton ſit with them, with<g ref="char:EOLhyphen"/>out any endeavour to diſmiſſe them thence; and not only ſo, but ſeem inſenſible or regardleſſe of all the evill that hath been done by them, in endeavouring to make a new warre, or to bring in the King, upon moſt unjuſt, unſafe, and unconſcionable tearmes.</p>
+            <p>Surely we cannot but grieve to conſider, how the Parliament have ſpent their time ſince yee entred the City; the Houſe of Lords ſtill impriſon Commoners without controle, Lilburne continueth moſt unjuſtly and ſhameleſly a priſoner in the Tower, and Man<g ref="char:EOLhyphen"/>cheſter at liberty.</p>
+            <p>People from many Counties petition againſt the oppreſſion of
+<pb n="5" facs="tcp:116033:7"/>Tithes, without any relief at all, but made more grieveous by a moſt unreaſonable Ordinance; the Aſſembly of Parſons continue ſitting, to the great charge of the people, whil'ſt they hatch nothing but miſchief.</p>
+            <p>No juſt nor equall way is ordered for due and timely payment of you in the Army, but is omitted of ſet-purpoſe, that free quarter may make you odious, and incenſ the people againſt you; and no<g ref="char:EOLhyphen"/>thing is now ſo much minded by your Officers and their Parlia<g ref="char:EOLhyphen"/>ment, then how to pleaſe, ſatisfy and eſtabliſh the King, who hates both you and us with an inveterate hatered; and were your Officers of the ſame mind they have ſometimes been, he would hate them in the like manner, but it appeareth, he by his inſinuations hath ſo wrought upon their affections, that he and they ſeem to be of one heart, and of one mind, ſo that all their care is to pleaſe him; and that they may doe it the more effectually (ſwallowing up their duty to God, their engagement with you, their Declaration and proteſtation, with all the innocent blood that he hath ſpilt) they for his ſake, forbear to clear the Houſe, of ſo many of his truſty friends, who in the counterſiut Parliam. ſo vehemently endeavoured his ſpeedy comming to London, where certainly your Officers ear<g ref="char:EOLhyphen"/>neſtly deſire to have him: otherwiſe why are they ſo importunate (after his denyall of the Propoſitions) to preſent their weak and lame Propoſals to the Houſe, and ſo to prepare them, or ſome re<g ref="char:EOLhyphen"/>ſult thereof to be ſent to him for his agreement and conſent? why make they an Idoll of him, and beare him up ſo high in the eyes and fancies of the people, as if he were in there eſteem, the very light of their eyes, and the breath of their noſtrels?</p>
+            <p>Why are they ſo familliar with Aſhburnhame and other his chief agients? Why permit they ſo many of his deceitfull Clergy to continue about him? Why doe themſelves kneele, and kiſſe, and fawne upon him? Why have they received favours from him, and ſent their wives or daughters to viſit him, or to kiſſe his hand, or be kiſſed of him?</p>
+            <p>Oh ſhame of men! Oh ſin againſt God! What, to doe thus to a<g ref="char:EOLhyphen"/>man of blood; over head and eares in the blood of your deareſt friends and fellow Commoners? To him that thirſteth for your blood, yea, and theirs too, however they flatter and befoole them<g ref="char:EOLhyphen"/>ſelves. Hear oh Heavens, and regard oh earth, If this in theſe exceed <pb n="6" facs="tcp:116033:8"/>not the wickedneſſe of the moſt wicked upon earth?</p>
+            <p>And think ye oh friends, to eſcape the ſevere judgement of Al<g ref="char:EOLhyphen"/>mighty God, who by your ſilence and want of reproofe of theſe things, give countenance thereunto, for your officers durſt not go on in theſe unworthy courſes, but that they preſume upon you to back them: For alas, what are they without you, but as ſo many ſingle perſons, ready to be hunted by all the great parties in the land? So that ye are in effect, the abetters of all their evill courſes, the Bauds and Panders to their adulterate practices with the King; nor can ye make amends for your ſo ſinfull neglect, but by a ſpeedy im<g ref="char:EOLhyphen"/>peachment of him, and exemplary puniſhment of them, for their private tampering with him, who if he were a politick tyrant when this Parliament began, how bloody a one hath he proved himſelfe ever ſince?</p>
+            <p>Wee beſeech you therefore, yea, we beg of you all Commanders and Souldiers, that are yet untainted in your integrity, and have not yet bowed your knees to Baal, that yee will not betray your ſelves, your juſt cauſe and us ſo unworthily, nor ſeem to diſtruſt that power and wiſdome of God, by which ye have done ſo great and mighty workes; but that now ye will be bold and couragious for your God and for his people, and for juſtice againſt all ungodli<g ref="char:EOLhyphen"/>neſſe and unrighteouſneſſe of men, without reſpect of perſons.</p>
+            <p>And before it be to late deal plainly with Ireton, by whoſe cowar<g ref="char:EOLhyphen"/>dy or ambicious policy, Cromwel is betrayed into theſe miſchievous practices; &amp; by whoſe craft the power of your Adjutators is brought to nothing; and by whoſe diſſimulation many of them are corrupt<g ref="char:EOLhyphen"/>ed, and become treacherous unto you; none but flatterers, tale-bea<g ref="char:EOLhyphen"/>rers and turn-coats are countenanced by him: let him know yee know him, and hate his courſes; your generall councels by his im<g ref="char:EOLhyphen"/>perious carriage, are like unto Star-chambers; a plain man is made an offender for a word.</p>
+            <p>And if Cromwell inſtantly repent not, and alter his courſe, let him know alſo, that ye loved and honoured juſt, honeſt, ſincere and valiant Cromwell, that loved his Country, and the liberties of the people above his life, yea, and hated the King as a man of blood, but that Cromwell ceaſing to be ſuch, he ceaſeth to be the object of your love.</p>
+            <p>And ſince there is no remedy, ye muſt begin your worke anew,
+<pb n="7" facs="tcp:116033:8"/>ye are as ye were at Bury, ye are no ſtrangers to the way, ye have already made a good beginning, wherein we rejoyce, ye have men amongſt you as fit to governe, as others to be removed, AND WITH A WORD, YEE CAN CREATE NEW OFFICERS, neceſſity hath no law, and againſt it there is no plea, the ſafety of the people is above all law; &amp; if ye be not very ſpeedy, effectuall, and doe your worke throughly, and not by halves as it hath been, yee and wee periſh inevitably.</p>
+            <p>What your Generall is yee beſt know, but 'tis to late to live by hopes, or to run any more hazzards, none can deceive you but whom ye truſt upon doubtfull tearmes; be ware of the flattery and ſophiſtry of men: bargain with your Officers, not to court it in fine or gaudy apparrell, nor to regard titles, fine fare or complements; thoſe that doe, are much more lyable to temptations then other men; a good conſcience is a continuall feaſt; and let your ourſide teſtifie that ye delight not to be Souldiers, longer then neceſſity re<g ref="char:EOLhyphen"/>quires.</p>
+            <p>Draw your ſelves into an exact councell, and get amongs you, the moſt judicious and trueſt lovers of the people ye can find, to helpe you; and let your end be juſtice without reſpect of perſons, and peace and freedome to all ſorts of peaceable people, eſtabliſh a free Parlia<g ref="char:EOLhyphen"/>ment, by expulſion of the uſurppers: free the people from all bur<g ref="char:EOLhyphen"/>thens and oppreſſions ſpeedily and without delay; take an exact ac<g ref="char:EOLhyphen"/>compt of the publick treaſure, that publick charges may be defray<g ref="char:EOLhyphen"/>ed by ſubſidees, Tythes aboliſhed, the lawes and proceeeings therein regulated, and free quarter abandoned.</p>
+            <p>Let nothing deterre you from this ſo juſt and neceſſary a worke, none will oppoſe you therein, or ſo long as ye continue ſincere and uncorrupted; for all ſorts of people have been abuſed, Kings have abuſed them, Parliaments have abuſed them, and your chief Officers have moſt groſly deceived the honeſt party: be confident none will oppoſe, and be as confident, that thouſands and ten thouſands are ready and ripe to aſſiſt you.</p>
+            <p>Be ſtrong therefore, our deare true harted brethren and fellow Commoners, and be of good courage, and the Lord our God will direct you by his wiſdome, who never yet failed you in your grea<g ref="char:EOLhyphen"/>teſt extremities; ſtay for no farther, looke for no other Call: for the voice of neceſſity is the Call of God; al other waies for your im<g ref="char:EOLhyphen"/>demonity <pb n="8" facs="tcp:116033:9"/>are but deluſive, and if yee truſt to any other, under the faireſt promiſes, yee will find your ſelves in a ſnare.</p>
+            <p>Whom can yee truſt, who hath not hitherto deceived you? Truſt only to juſtice, for God is a God of juſtice, and thoſe that promote the ſame ſhall be preſerved; free the Parliament from thoſe incendiaries with all your might; the true and juſt patrion (yea, all but deceivers) therein long for your aſſiſtance; &amp; that being effectually done, ye may ſafely put your ſelves and the whole Nation, upon them both for proviſion indempnity and juſt liberty.</p>
+            <p>In the meane time, let your friends that are about the King, be ſure to keepe him, as they keep their lives, and not to part with him upon any tearmes, till you can re<g ref="char:EOLhyphen"/>ferre him to a free Parliament; if you doe not this, but that any agreement be now made with him, yee will find that in an inſtant, his Judges and Lawyers, and Lords and Prieſts, will be your Judges, and what rebels ye appeare in their eyes both yee know, &amp; ſome of your friends have already felt ſufficiently; a free Parliament there<g ref="char:EOLhyphen"/>fore only can ſecure both you and us.</p>
+            <p>Let no policy, art or ſtratagem divide you in affection, or ſeparate your Regi<g ref="char:EOLhyphen"/>ments far diſtant from one another, for that muſt neceſſarily be your unavoidable ru<g ref="char:EOLhyphen"/>ine; beware of Neuters, and ſuch as have carried two faces under one hood, hollow-hearted or aſpiring men, ſuch as Say Wharton, Fines, Vaine, St. Johns, &amp;c. the grea<g ref="char:EOLhyphen"/>teſt deceivers this day living; above all harden not your conſciences by a cuſtome in diſſimulation, as ſome eminent profeſſors amongſt you have lamentably done, as knowing that none are ſo hatefull in the ſight of God as hipocrits.</p>
+            <p>Doe what yee can to recover the credit of your Army, which hath beene betrayed and loſt, as ſhamefully as the publick faith (both which deſerve ſevere puniſhments) for if once yee looſe your reputation, yee will ſoon be but as a meere ſhadow; there<g ref="char:EOLhyphen"/>fore be very carefull of keeping a good, upright and ſincere conſcience before God, and then yee need not feare what men can doe unto you.</p>
+            <p>But in theſe and all other things, the wiſdome and goodneſſe of God (wee truſt) will be your guide, to leade you into all the pathes of righteouſneſſe, unto whoſe will and mind if yee carefully give care, yee ſhall certainly be bleſſed in all your under<g ref="char:EOLhyphen"/>takings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
